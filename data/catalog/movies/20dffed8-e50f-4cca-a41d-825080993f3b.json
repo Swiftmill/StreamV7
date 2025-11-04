@@ -1,0 +1,38 @@
+{
+  "id": "20dffed8-e50f-4cca-a41d-825080993f3b",
+  "type": "movie",
+  "title": "Bird Box",
+  "description": "Dans un monde apocalyptique, une m\u00e8re prot\u00e8ge ses enfants d'une force invisible.",
+  "genres": [
+    "Horreur",
+    "Thriller"
+  ],
+  "releaseYear": 2018,
+  "durationMinutes": 124,
+  "streamUrl": "https://test-streams.mux.dev/afbw/afbw.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/ntAiQbN2A1g6Z9erjRzCQXD1HzX.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-06T00:00:00Z",
+  "published": true,
+  "featured": false,
+  "views": 72500,
+  "categories": [
+    "science-fiction"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}

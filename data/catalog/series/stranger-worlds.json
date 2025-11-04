@@ -1,0 +1,176 @@
+{
+  "id": "4b3e0434-f5b7-4873-81b3-c3aa68fafc42",
+  "type": "series",
+  "title": "Stranger Worlds",
+  "slug": "stranger-worlds",
+  "description": "Un groupe d'adolescents d\u00e9couvre un passage vers une dimension parall\u00e8le.",
+  "genres": [
+    "Science-Fiction",
+    "Myst\u00e8re"
+  ],
+  "releaseYear": 2021,
+  "durationMinutes": 52,
+  "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/yTzRFmUbHECx4Y8bVY5T2s9sO3p.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-05T00:00:00Z",
+  "published": true,
+  "featured": true,
+  "views": 75000,
+  "categories": [
+    "series-originales"
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "title": "Episode 1",
+          "description": "L'\u00e9pisode 1 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-01T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "title": "Episode 2",
+          "description": "L'\u00e9pisode 2 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-02T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 3,
+          "title": "Episode 3",
+          "description": "L'\u00e9pisode 3 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-03T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 4,
+          "title": "Episode 4",
+          "description": "L'\u00e9pisode 4 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-04T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "title": "Episode 5",
+          "description": "L'\u00e9pisode 5 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-05T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "title": "Episode 6",
+          "description": "L'\u00e9pisode 6 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-01-06T00:00:00Z",
+          "published": true
+        }
+      ]
+    }
+  ],
+  "totalSeasons": 1,
+  "totalEpisodes": 6
+}

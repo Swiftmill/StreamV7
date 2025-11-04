@@ -1,0 +1,39 @@
+{
+  "id": "f7604ddc-0109-4a72-84ab-37b3158c8a6d",
+  "type": "movie",
+  "title": "Inception",
+  "description": "Un voleur d'id\u00e9es s'aventure dans les r\u00eaves pour changer la r\u00e9alit\u00e9.",
+  "genres": [
+    "Science-Fiction",
+    "Thriller"
+  ],
+  "releaseYear": 2010,
+  "durationMinutes": 148,
+  "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-01T00:00:00Z",
+  "published": true,
+  "featured": true,
+  "views": 50000,
+  "categories": [
+    "blockbusters",
+    "science-fiction"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}
