@@ -1,0 +1,239 @@
+:root {
+  color-scheme: dark;
+  --background: #0a0a0a;
+  --surface: #121212;
+  --surface-alt: #1c1c1c;
+  --text: #eaeaea;
+  --muted: #9a9a9a;
+  --accent: #e50914;
+  --radius: 12px;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 1.5rem;
+  --max-width: 1440px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+button {
+  font: inherit;
+  border: none;
+  border-radius: var(--radius);
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  background: var(--accent);
+  color: var(--text);
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+
+button:hover,
+button:focus-visible {
+  background: #f40612;
+}
+
+button:disabled {
+  background: #333;
+  cursor: not-allowed;
+}
+
+main {
+  min-height: 100vh;
+}
+
+.grid {
+  display: grid;
+  gap: var(--spacing-md);
+}
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: var(--spacing-lg) 0 var(--spacing-md);
+}
+
+.card-grid {
+  display: grid;
+  gap: var(--spacing-md);
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+.card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  overflow: hidden;
+  position: relative;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover,
+.card:focus-within {
+  transform: scale(1.03);
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.45);
+}
+
+.card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: var(--spacing-md);
+}
+
+.hero {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 60vh;
+  padding: var(--spacing-lg);
+  background-size: cover;
+  background-position: center;
+  color: var(--text);
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(10, 10, 10, 0) 0%, rgba(10, 10, 10, 0.8) 80%);
+}
+
+.hero-content {
+  position: relative;
+  max-width: 640px;
+  z-index: 1;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-md);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-md) var(--spacing-lg);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(10, 10, 10, 0.8);
+  backdrop-filter: blur(12px);
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.nav-links {
+  display: flex;
+  gap: var(--spacing-md);
+}
+
+.nav-links a {
+  color: var(--muted);
+  transition: color 0.2s ease;
+}
+
+.nav-links a:hover,
+.nav-links a[aria-current="page"] {
+  color: var(--text);
+}
+
+.layout-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg) var(--spacing-lg);
+}
+
+.row-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.row-scroller {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(220px, 1fr);
+  gap: var(--spacing-md);
+  overflow-x: auto;
+  padding-bottom: var(--spacing-md);
+  scroll-snap-type: x mandatory;
+}
+
+.row-scroller::-webkit-scrollbar {
+  height: 8px;
+}
+
+.row-scroller::-webkit-scrollbar-thumb {
+  background: rgba(234, 234, 234, 0.4);
+  border-radius: 999px;
+}
+
+.row-scroller > * {
+  scroll-snap-align: start;
+}
+
+.skeleton {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 25%, rgba(255, 255, 255, 0.16) 37%, rgba(255, 255, 255, 0.08) 63%);
+  background-size: 400% 100%;
+  animation: shimmer 1.4s ease infinite;
+  border-radius: var(--radius);
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+  }
+
+  .hero {
+    min-height: 50vh;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

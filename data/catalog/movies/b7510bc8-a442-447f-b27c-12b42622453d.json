@@ -1,0 +1,38 @@
+{
+  "id": "b7510bc8-a442-447f-b27c-12b42622453d",
+  "type": "movie",
+  "title": "Interstellar",
+  "description": "Une \u00e9quipe explore un trou de ver \u00e0 la recherche d\u2019un nouveau foyer pour l\u2019humanit\u00e9.",
+  "genres": [
+    "Science-Fiction",
+    "Drame"
+  ],
+  "releaseYear": 2014,
+  "durationMinutes": 169,
+  "streamUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/zny86ZHZF9dC9ZuRJu2PpUtN2ye.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-02T00:00:00Z",
+  "published": true,
+  "featured": true,
+  "views": 54500,
+  "categories": [
+    "science-fiction"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}

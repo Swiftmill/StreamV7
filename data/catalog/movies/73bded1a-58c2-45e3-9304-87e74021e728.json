@@ -1,0 +1,37 @@
+{
+  "id": "73bded1a-58c2-45e3-9304-87e74021e728",
+  "type": "movie",
+  "title": "Roma",
+  "description": "Chronique intime de la vie d\u2019une famille mexicaine dans les ann\u00e9es 70.",
+  "genres": [
+    "Drame"
+  ],
+  "releaseYear": 2018,
+  "durationMinutes": 135,
+  "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/dOcdBuYdA52xF6cKMnF8TGcP4tW.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/qmDU9lEi5Gx9f3xB2S7R5pTKtyf.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-04T00:00:00Z",
+  "published": true,
+  "featured": false,
+  "views": 63500,
+  "categories": [
+    "science-fiction"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}

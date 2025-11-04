@@ -1,0 +1,78 @@
+{
+  "id": "22222222-2222-2222-2222-222222222222",
+  "type": "series",
+  "title": "Stranger Things",
+  "slug": "stranger-things",
+  "description": "In the 1980s, a group of kids uncovers a government experiment and supernatural forces in their small town.",
+  "genres": [
+    "Science Fiction",
+    "Drama"
+  ],
+  "releaseYear": 2016,
+  "durationMinutes": 50,
+  "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/yTzRFmUbHECx4Y8bVY5T2s9sO3p.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2023-12-01T10:00:00.000Z",
+  "published": true,
+  "featured": true,
+  "views": 98765,
+  "categories": [
+    "series-originales"
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "title": "Chapter One: The Vanishing of Will Byers",
+          "description": "Will Byers vanishes into thin air. Investigating into his disappearance, the boys meet a mysterious girl.",
+          "durationMinutes": 47,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "releaseDate": "2016-07-15T00:00:00.000Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "title": "Chapter Two: The Weirdo on Maple Street",
+          "description": "Mike hides the mysterious girl in his house. Hopper questions an anxious Joyce about an unsettling phone call.",
+          "durationMinutes": 55,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            }
+          ],
+          "releaseDate": "2016-07-15T00:00:00.000Z",
+          "published": true
+        }
+      ]
+    }
+  ],
+  "totalSeasons": 1,
+  "totalEpisodes": 2
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "blockbusters",
+    "name": "Blockbusters",
+    "order": 0,
+    "type": "movie",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "science-fiction",
+    "name": "Science-Fiction",
+    "order": 1,
+    "type": "mixed",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "series-originales",
+    "name": "Séries originales",
+    "order": 2,
+    "type": "series",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

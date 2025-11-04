@@ -1,0 +1,12 @@
+version: '3.9'
+services:
+  streamv7:
+    build: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./data:/app/data
+    environment:
+      - NODE_ENV=production
+      - COOKIE_SECRET=streamv7-docker-secret
+    restart: unless-stopped

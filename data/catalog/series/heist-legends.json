@@ -1,0 +1,176 @@
+{
+  "id": "56154790-1792-4781-b7e5-a5b730ab1e89",
+  "type": "series",
+  "title": "Heist Legends",
+  "slug": "heist-legends",
+  "description": "Des braqueurs orchestrent des coups impossibles \u00e0 travers le globe.",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "releaseYear": 2022,
+  "durationMinutes": 52,
+  "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/moT6uH6C62f7bPiwR5qX6F12Hh3.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-06T00:00:00Z",
+  "published": true,
+  "featured": false,
+  "views": 82000,
+  "categories": [
+    "series-originales"
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 1,
+          "title": "Episode 1",
+          "description": "L'\u00e9pisode 1 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-01T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 2,
+          "title": "Episode 2",
+          "description": "L'\u00e9pisode 2 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-02T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 3,
+          "title": "Episode 3",
+          "description": "L'\u00e9pisode 3 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-03T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 4,
+          "title": "Episode 4",
+          "description": "L'\u00e9pisode 4 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-04T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "title": "Episode 5",
+          "description": "L'\u00e9pisode 5 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-05T00:00:00Z",
+          "published": true
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "title": "Episode 6",
+          "description": "L'\u00e9pisode 6 d\u00e9veloppe les enjeux dramatiques de la saison.",
+          "durationMinutes": 52,
+          "streamUrl": "https://test-streams.mux.dev/pts_shift/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+            },
+            {
+              "lang": "fr",
+              "label": "Fran\u00e7ais",
+              "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+            }
+          ],
+          "releaseDate": "2024-02-06T00:00:00Z",
+          "published": true
+        }
+      ]
+    }
+  ],
+  "totalSeasons": 1,
+  "totalEpisodes": 6
+}

@@ -1,0 +1,38 @@
+{
+  "id": "e84b7b0c-f380-486a-8108-edb7fe42683f",
+  "type": "movie",
+  "title": "The Irishman",
+  "description": "Un tueur \u00e0 gages se rem\u00e9more sa vie au sein de la mafia am\u00e9ricaine.",
+  "genres": [
+    "Crime",
+    "Drame"
+  ],
+  "releaseYear": 2019,
+  "durationMinutes": 209,
+  "streamUrl": "https://test-streams.mux.dev/angel-one/angel-one.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/qb4qS1ViyJFu8UPri6P0RcbepcB.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-05T00:00:00Z",
+  "published": true,
+  "featured": false,
+  "views": 68000,
+  "categories": [
+    "blockbusters"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}

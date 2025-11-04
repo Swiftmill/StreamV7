@@ -1,0 +1,38 @@
+{
+  "id": "cf69adee-e1ca-42f5-9a79-9cb74032b65e",
+  "type": "movie",
+  "title": "The Old Guard",
+  "description": "Une \u00e9quipe de guerriers immortels lutte pour prot\u00e9ger leur secret.",
+  "genres": [
+    "Action",
+    "Fantastique"
+  ],
+  "releaseYear": 2020,
+  "durationMinutes": 125,
+  "streamUrl": "https://test-streams.mux.dev/sintel/index.m3u8",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+  "heroUrl": "https://image.tmdb.org/t/p/original/mBbJgFf9mlBZIFWE3wzY7KXvL9k.jpg",
+  "subtitles": [
+    {
+      "lang": "en",
+      "label": "English",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_en.vtt"
+    },
+    {
+      "lang": "fr",
+      "label": "Fran\u00e7ais",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/subtitles/subtitles_fr.vtt"
+    }
+  ],
+  "createdAt": "2024-01-08T00:00:00Z",
+  "published": true,
+  "featured": false,
+  "views": 81500,
+  "categories": [
+    "science-fiction"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ]
+}
